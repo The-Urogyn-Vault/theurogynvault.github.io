@@ -4,7 +4,7 @@ layout: home
 ---
 
 # 🔐 **The UroGyn Vault**
-<p style="font-size: 1rem; color: #C3172D;">
+<p style="font-size: 1rem; color: #b22222;">
 <strong>Study smarter. Operate sharper. Anywhere.</strong>
 </p>
 
