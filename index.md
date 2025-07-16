@@ -3,7 +3,7 @@ title: Home
 layout: home
 ---
 
-# 🔐 **The UroGyn Vault**
+# 🔐 **The UroGyn Vault** 
 <p style="font-size: 1rem; color: #b22222;">
 <strong>Study smarter. Operate sharper. Anywhere.</strong>
 </p>
