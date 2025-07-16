@@ -2,16 +2,25 @@
 title: Home
 layout: home
 ---
-# 🔐**The UroGyn Vault**
 
-*The UroGyn Vault is a high-yield treasure chest of urogynecology pearls, crafted for learners at every level.*<br>
-**Study smarter. Operate sharper. Anywhere.**
+# 🔐 **The UroGyn Vault**
+<p style="font-size: 1rem; color: #C3172D;">
+<strong>Study smarter. Operate sharper. Anywhere.</strong>
+</p>
+
+<p style="font-size: 1.05rem; color: #444;">
+High-yield pearls of urogynecology notes, crafted for learners at every level.
+</p>
+
 ---
-### Vault contents? *Curated for students, residents, fellows, and lifelong learners*
-- **Landmark trials**: TLDR of Urogyn Landmark trials. Inspired by Dr. Jocelyn J. Fitzgerald, MD, FACOG's compiled list.
-- **Walter & Karram Chapter Summaries**: 
-- **Step-by-step surgical guides** with annotated anatomy  
-- **Flashcards & quizzes** that actually stick for CREOG and boards  
-- **Quick links**: AUGS POP-Q, etc.
-- 
-📬 **Questions? Suggestions?** TheUroGynVault@gmail.com or ig@theurogynvault
+
+### 💾 Vault Contents  
+*Curated for students, residents, fellows, and lifelong learners:*
+- **Landmark Trials**: TLDR summaries. Inspired by Dr. Jocelyn J. Fitzgerald, MD, FACOG’s list.
+- **Walter & Karram Chapter Summaries**
+- **Step-by-step surgical guides**
+- **Quick links**: POP-Q
+---
+
+📬 **Questions? Suggestions?**  
+Email: [TheUroGynVault@gmail.com](mailto:TheUroGynVault@gmail.com) // IG: [@theurogynvault](https://instagram.com/theurogynvault)
